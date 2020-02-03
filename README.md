@@ -1,1 +1,3 @@
 # MicroMouseMaze
+
+![Bot](bot.jpeg)
